@@ -24,7 +24,7 @@ Awarded Best Student in Programming & Networks (2017-2019) at Kimpa Vita Univers
 ### EMPACTA (Commercial & Billing System, 2022)
 - AGT-validated ERP under No. 388/AGT/2022 for SMEs, processing 1,000+ invoices/month in Luanda and Bengo.  
 - [Validation Certificate](agtasd.pdf)
-- [Empacta video at Auto Jumek company](https://www.youtube.com/watch?v=chE4cHQUZjs) (private access)
+- [Empacta video - Auto Jumek company](https://www.youtube.com/watch?v=chE4cHQUZjs) (private access)
 
 ## Skills
 - Programming: C#, SQL, .NET/WPF...  
