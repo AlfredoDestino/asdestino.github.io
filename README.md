@@ -4,7 +4,7 @@ Computer Engineer | Lead Developer — Enterprise Systems — C# Developer | Inf
 
 ## About Me
 Computer Engineer and Lead Software Developer with 7 years of experience designing and deploying secure enterprise systems for national institutions in Angola, including Sonangol EP, Ministry of Interior and the Tax Authority (AGT). 
-Awarded Best Student in Programming & Networks (2017-2019) at Kimpa Vita University, Uige, Angola; served as Lab monitor and Lecturer. 
+Awarded Best Student in Programming & Networks (2017-2019) at Kimpa Vita University, Uige, Angola; where served as Lab monitor and Lecturer. 
 Seeking MSc in Cyber Security in Switzerland. LinkedIn: [www.linkedin.com/in/asdestino](www.linkedin.com/in/asdestino).
 
 ## Projects
