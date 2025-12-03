@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="profile.jpg" width="180" alt="Alfredo Destino" class="circular-img">
+</p>
+
+<style>
+.circular-img {
+  border-radius: 50%;
+}
+</style>
+
 # Alfredo Destino Portfolio
 
 Computer Engineer | Lead Developer — Enterprise Systems | Information Security Enthusiast
