@@ -1,50 +1,62 @@
 <p align="center">
-  <img src="Profilephoto.png" alt="Alfredo Destino" width="160">
+  <img src="Profilephoto.png" alt="Alfredo Destino" width="160" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Alfredo Destino</h1>
 
 <p align="center">
-  <strong>Computer Engineer • Lead Developer — Enterprise Systems • Cyber Security Enthusiast</strong><br>
-  🎓 — Seeking MSc in Information and Cyber Security in Switzerland
+  <strong>Computer Engineer • Lead Enterprise Developer • Information Security Enthusiast</strong><br>
+  🎓 MSc Candidate in Information & Cyber Security — Switzerland
 </p>
 
 ---
 
 ## 👤 About Me
-Computer Engineer and Lead Enterprise Software Developer with 7 years of experience designing and deploying secure enterprise systems for national institutions in Angola, including Sonangol EP, Ministry of Interior, and the Tax Authority - AGT.
+Computer Engineer and Lead Enterprise Software Developer with 7 years of experience designing and deploying secure, mission-critical systems for national institutions in Angola, including **Sonangol EP**, the **Ministry of Interior**, and the **Tax Authority - AGT**.
 
 Awarded **Best Student in Programming & Networks (2017–2019)** at Kimpa Vita University, where I also served as Lab Monitor and Lecturer.
 
-Currently applying for a **Master’s in Information and Cyber Security in Switzerland**, aiming to expand secure software design expertise and contribute to high-security digital transformation.
+Currently applying for an **MSc in Information & Cyber Security in Switzerland**, with the objective of expanding expertise in secure architecture, cryptography, and applied cybersecurity for large-scale national infrastructures.
 
 🔗 **LinkedIn:** [linkedin.com/in/asdestino](https://www.linkedin.com/in/asdestino)
 
 ---
 
 ## 💼 Key Projects
-
-### **SONA-SSES — Enterprise Security System (Sonangol EP, 2025–Present)**
-- [Standard User Manual (29 pages, English)](sonassesasd.pdf)  
-- [Promotional Video (2 min)](https://youtu.be/41C7MBI42T4)
-- Phase 1 (Completed): Complete security management desktop system for **200+ users** with RBAC, audit logs, encrypted data (C#/.NET + MySQL).  
-- Phase 2 (Master’s goal): Extend to **secure remote access via VPN/ZTNA**.
+### 🔐 Protected PDF Notice
+> ⚠️ **Security Notice:**  
+> Due to the institutional and sensitive nature of the following systems, **technical manuals are published as password-protected PDF files** to ensure institutional security and compliance.  
+> The access password is provided exclusively in my **CV** submitted as MSc's academic applications, **upon request**, and for **authorized reviewers**.
 
 ---
 
-### **NGOLO — Investigation Platform (Ministry of Interior, 2023–2024)**
-- [System Presentation Manual (28 pages, English)](APRES_NGOLO_V19_ENG.pdf)
-- Phase 1 (Completed): Secure desktop platform for investigation & field-intelligence workflows, reducing operational response time by **40%** for **10+ local units - Dande Municipality**.
-- Phase 2 (Master’s goal): Secure remote access for officials nationwide via **VPN/ZTNA**, including those operating outside Angola.  
-- Full demo available upon request (classified).
+### **SONA-SSES — Enterprise Security System (Sonangol EP, 2025–Present)**  
+- 📘 **Standard User Manual — 29 pages (English, Password-Protected 🔒)**  
+  [Download PDF](sonassesasd.pdf)  
+- 🎬 **Promotional Video (2 min)**  
+  https://youtu.be/41C7MBI42T4  
+- **Phase 1 (Completed):** Security management platform for **200+ users**, featuring RBAC, encrypted data, audit logs and enterprise-grade security (C#/.NET + MySQL).  
+- **Phase 2 (MSc Goal):** Extension to secure remote access via **VPN / Zero-Trust Network Access (ZTNA)**.
+- **Full demonstration available upon request (classified).**
+  
+---
+
+### **NGOLO — Investigation & Intelligence Platform (Ministry of Interior, 2023–2024)**  
+- 📘 **System Presentation Manual — 28 pages (English, Password-Protected 🔒)**  
+  [Download PDF](APRES_NGOLO_V19_ENG.pdf)  
+- **Phase 1 (Completed):** Secure desktop platform for investigation & field-intelligence workflows reducing operational response time by **40%** for **10+ units in Dande Municipality**.  
+- **Phase 2 (MSc Goal):** Nationwide secure remote access for officials, including those operating internationally (VPN/ZTNA).  
+- **Full demonstration available upon request (classified).**
 
 ---
 
-### **EMPACTA — Commercial & Billing System (2022)**
-- [AGT validation certificate nº 388/2022](agtasd.pdf)  
-- [Client Demo – Auto Jumek](https://www.youtube.com/watch?v=chE4cHQUZjs)
-- Full ERP: sales, inventory, invoicing, taxation (SAFT).  
-- Processes **1,000+ invoices/month** for **10+ SMEs** across Luanda and Bengo.
+### **EMPACTA — Commercial & Billing System (2022)**  
+- 📃✔️ **AGT Validation Certificate nº 388/2022**  
+  [Download PDF](agtasd.pdf)  
+- 🚗 **Client Demo — Auto Jumek**  
+  https://www.youtube.com/watch?v=chE4cHQUZjs  
+- Complete ERP for SMEs and large companies (sales, stock, taxation, SAFT).  
+- Processes **1,000+ invoices/month** across **10+ companies** in Luanda and Bengo.
 
 ---
 
@@ -54,20 +66,20 @@ Currently applying for a **Master’s in Information and Cyber Security in Switz
 C#, .NET (WinForms/WPF), SQL, MySQL, Batch Script
 
 ### **Cyber Security & Networks**
-VPN, ZTNA, RBAC, Encryption, Secure Architecture, DLP, Audit Compliance
+VPN, ZTNA, RBAC, Encryption, DLP, Secure Architecture, Audit & Compliance
 
 ### **Tools**
-Visual Studio, Git/GitHub, Xampp, Sap Cristal Report, MS visio, Cisco pt, GNS, Open SSL, 7Zip, Notepad++
+Visual Studio, Git/GitHub, XAMPP, Crystal Reports, MS Visio, Cisco Packet Tracer, GNS3, OpenSSL, 7-Zip, Notepad++
 
 ---
 
 ## 📱 Contact
-📨 **Email:** [alfredodestinn@gmail.com](mailto:alfredodestinn@gmail.com)  
-📲 **Phone:** +244-945-380-783  
-💬 **WhatsApp:** [Send Message](https://wa.me/244923759411?text=Regards%20Mr.%20Alfredo%2C%0AMy%20name%20is%20%E2%80%A6%0AI%20contacting%20you%20from%20your%20portfolio%2C%0AI%E2%80%99d%20like%20to%20talk%20with%20you%20about%20%E2%80%A6)
+📨 Email: [alfredodestinn@gmail.com](mailto:alfredodestinn@gmail.com)  
+📲 Phone: +244-945-380-783  
+💬 WhatsApp: [Send Message](https://wa.me/244923759411?text=Regards%20Mr.%20Alfredo%2C%0AMy%20name%20is%20%E2%80%A6%0AI%20contacting%20you%20from%20your%20portfolio%2C%0AI%E2%80%99d%20like%20to%20talk%20with%20you%20about%20%E2%80%A6)
 
 ---
 
 <p align="center">
-  <sub>"Together we can"- Helen Keller</sub>
+  <sub>“Together we can.” — Helen Keller</sub>
 </p>
