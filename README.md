@@ -52,7 +52,9 @@ Currently applying for an **MSc in Information & Cyber Security in Switzerland**
 
 ### **EMPACTA — Commercial & Billing System (2022)**  
 - 📃✔️ **AGT Validation Certificate nº 388/2022**  
-  [Download PDF](agtasd.pdf)  
+  [Download PDF](agtasd.pdf)
+- 📘 **User Manual — 75 pages (Portuguese)**  
+ [Download PDF](EMPACTA_Manual_do_Utilizador.pdf)
 - 🚗 **Client Demo — Auto Jumek**  
   [https://www.youtube.com/watch?v=chE4cHQUZjs](https://www.youtube.com/watch?v=chE4cHQUZjs)  
 - Complete ERP for SMEs and large companies (sales, stock, taxation, SAFT).  
