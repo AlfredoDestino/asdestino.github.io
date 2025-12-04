@@ -54,7 +54,7 @@ Currently applying for an **MSc in Information & Cyber Security in Switzerland**
 - 📃✔️ **AGT Validation Certificate nº 388/2022**  
   [Download PDF](agtasd.pdf)  
 - 🚗 **Client Demo — Auto Jumek**  
-  https://www.youtube.com/watch?v=chE4cHQUZjs  
+  [https://www.youtube.com/watch?v=chE4cHQUZjs](https://www.youtube.com/watch?v=chE4cHQUZjs)  
 - Complete ERP for SMEs and large companies (sales, stock, taxation, SAFT).  
 - Processes **1,000+ invoices/month** across **10+ companies** in Luanda and Bengo.
 
