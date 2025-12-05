@@ -30,7 +30,7 @@ Currently applying for an **MSc in Information & Cyber Security in Switzerland**
 
 ---
 
-### **SONA-SSES — Enterprise Security System (Sonangol EP, 2025–Present)**  
+### **SONA-SSES — Sonangol's corporate security system (Sonangol EP, 2025–Present)**  
 - 📘 **Standard User Manual 1.0 — 45 pages (English, Password-Protected 🔒)**  
   [Download PDF](SONA_SSES_SUM1.0.pdf)  
 - 🎬 **Promotional Video (2 min)**  
