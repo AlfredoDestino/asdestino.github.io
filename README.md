@@ -42,7 +42,7 @@ Currently applying for an **MSc in Information & Cyber Security in Switzerland**
 ---
 
 ### **NGOLO — Police Investigation & Intelligence Platform (Ministry of Interior, 2023–2024)**  
-- 📘 **System Presentation Manual 1.1 — 28 pages (English, Password-Protected 🔒)**  
+- 📘 **Ngolo Presentation Manual 1.1 — 28 pages (English, Password-Protected 🔒)**  
   [Download PDF](APRES_NGOLO_V19_ENG.pdf)  
 - **Phase 1 (Completed):** Secure desktop platform for investigation & field-intelligence workflows reducing operational response time by **40%** for **10+ units in Dande Municipality**.  
 - **Phase 2 (MSc Goal):** Nationwide secure remote access for officials, including those operating internationally (VPN/ZTNA).  
