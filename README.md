@@ -5,8 +5,7 @@
 <h1 align="center">Alfredo Destino</h1>
 
 <p align="center">
-  <strong>Computer Engineer • Lead Enterprise Systems & C# Developer • Information & Cyber Security Specialist (MSc Candidate 2026)</strong><br>
-  🎓 MSc Candidate in Information & Cyber Security — Switzerland
+  <strong>Computer Engineer • Lead Enterprise Systems & C# Developer • Information & Cyber Security Specialist (MSc Candidate 2026 — Switzerland)</strong>
 </p>
 
 ---
@@ -26,7 +25,7 @@ Currently applying for an **MSc in Information & Cyber Security in Switzerland**
 #### 🔐 Protected PDF Notice
 > ⚠️ **Security Notice:**  
 > Due to the institutional and sensitive nature of the following systems, **technical manuals are published as password-protected PDF files** to ensure institutional security and compliance.  
-> The access password is provided exclusively in my **CV** submitted as MSc's academic applications; **upon request**; and for **authorized reviewers**.
+> The access password is provided exclusively in my **CV** submitted as MSc academic applications; **upon request**; and for **authorized reviewers**.
 
 ---
 
@@ -36,13 +35,13 @@ Currently applying for an **MSc in Information & Cyber Security in Switzerland**
 - 🎬 **Promotional Video (2 min)**  
   [https://youtu.be/41C7MBI42T4](https://youtu.be/41C7MBI42T4)  
 - **Phase 1 (Completed):** Security management platform for **200+ users**, featuring RBAC, encrypted data, audit logs and enterprise-grade security (C#/.NET + MySQL).  
-- **Phase 2 (MSc Goal):** Extension to secure remote access via **VPN / Zero-Trust Network Access (ZTNA)**.
+- **Phase 2 (MSc Goal):** Extension to secure remote access via **VPN / Zero-Trust Network Access (ZTNA)**.  
 - **Full demonstration available upon request (classified).**
-  
+
 ---
 
 ### **NGOLO — Police Investigation & Intelligence Platform (Ministry of Interior, 2023–2024)**  
-- 📘 **Ngolo Presentation Manual 1.1 — 28 pages (English, Password-Protected 🔒)**  
+- 📘 **NGOLO Presentation Manual 1.1 — 28 pages (English, Password-Protected 🔒)**  
   [Download PDF](APRES_NGOLO_V19_ENG.pdf)  
 - **Phase 1 (Completed):** Secure desktop platform for investigation & field-intelligence workflows reducing operational response time by **40%** for **10+ units in Dande Municipality**.  
 - **Phase 2 (MSc Goal):** Nationwide secure remote access for officials, including those operating internationally (VPN/ZTNA).  
@@ -54,7 +53,7 @@ Currently applying for an **MSc in Information & Cyber Security in Switzerland**
 - 📃✔️ **AGT Validation Certificate nº 388/2022**  
   [Download PDF](agtasd.pdf)
 - 📘 **User Manual 1.0 — 75 pages (Portuguese)**  
- [Download PDF](EMPACTA_Manual_do_Utilizador.pdf)
+  [Download PDF](EMPACTA_Manual_do_Utilizador.pdf)
 - 🚗 **Client Demo — Auto Jumek**  
   [https://www.youtube.com/watch?v=chE4cHQUZjs](https://www.youtube.com/watch?v=chE4cHQUZjs)  
 - Complete ERP for SMEs and large companies (sales, stock, taxation, SAFT).  
