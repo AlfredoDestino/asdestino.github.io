@@ -1,30 +1,13 @@
-<!-- Banner + Foto Sobreposta (Estilo LinkedIn) -->
-<div align="center" style="position: relative;">
+<p align="center">
+  <img src="banner_final.png" alt="Alfredo Destino Banner" width="100%" style="max-width: 1200px;">
+</p>
 
-  <!-- Banner -->
-  <img src="banner.png" alt="Banner" width="100%" style="max-width: 1200px; border-radius: 10px;">
-
-  <!-- Foto de Perfil Sobreposta -->
-  <img src="Profilephoto.png"
-       alt="Alfredo Destino"
-       width="160"
-       style="
-         position: absolute;
-         bottom: -80px;
-         left: 50%;
-         transform: translateX(-50%);
-         border-radius: 50%;
-         border: 4px solid white;
-       ">
-</div>
-
-<br><br><br><br>
-
-<h1 align="center">Alfredo Destino</h1>
+<h1 align="center" style="margin-top:-40px;">Alfredo Destino</h1>
 
 <p align="center">
   <strong>Computer Engineer • Lead Enterprise Software Engineer (C#/.NET) • Information & Cyber Security Specialist (MSc Candidate, Switzerland 2026)</strong>
 </p>
+
 
 
 
