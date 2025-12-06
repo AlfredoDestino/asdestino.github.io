@@ -5,7 +5,7 @@
 <h1 align="center">Alfredo Destino</h1>
 
 <p align="center">
-  <strong>Computer Engineer • Lead Enterprise Developer • Information Security Enthusiast</strong><br>
+  <strong>Computer Engineer • Lead Enterprise Systems & C# Developer • Information & Cyber Security Specialist (MSc Candidate 2026)</strong><br>
   🎓 MSc Candidate in Information & Cyber Security — Switzerland
 </p>
 
